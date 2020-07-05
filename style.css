@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(117, 226, 220);
+}
+
+h1 {
+    font-weight: bolder;
+    text-decoration-line: underline;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
