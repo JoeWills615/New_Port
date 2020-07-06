@@ -1,4 +1,9 @@
 body {
+    background-color: black;
+}
+
+
+.container {
     background-color: rgb(117, 226, 220);
 }
 
@@ -10,6 +15,7 @@ h1 {
 p {
     text-align: center;
     font-weight: bold;
+    color: blanchedalmond;
 }
 
 .footer {

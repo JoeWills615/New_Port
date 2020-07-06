@@ -1,4 +1,9 @@
 body {
+    background-color: black;
+}
+
+
+.container {
     background-color: silver;
 }
 
@@ -10,6 +15,7 @@ h1 {
 p {
     text-align: center;
     font-weight: bold;
+    color: blanchedalmond;
 }
 
 p1 {
