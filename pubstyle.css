@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(117, 226, 220);
+    background-color: silver;
 }
 
 h1 {
@@ -10,6 +10,10 @@ h1 {
 p {
     text-align: center;
     font-weight: bold;
+}
+
+p1 {
+    text-align: center;
 }
 
 .footer {
