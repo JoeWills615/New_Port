@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(73, 73, 180);
+}
+
+h1 {
+    font-weight: bolder;
+    text-decoration-line: underline;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
