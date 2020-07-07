@@ -4,7 +4,7 @@ body {
 
 
 .container{
-    background-color: rgb(73, 73, 180);
+    background-color: rgb(162, 162, 231);
 }
 
 h1 {
@@ -20,6 +20,10 @@ p {
     text-align: center;
     font-weight: bold;
     color: blanchedalmond;
+}
+
+p2{
+    font-weight: bold;
 }
 
 .footer {
