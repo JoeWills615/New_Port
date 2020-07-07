@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    background-color: cadetblue;
+    background-color: rgb(122, 163, 165);
 }
 
 h1 {
@@ -16,6 +16,12 @@ h4 {
 }
 
 p {
+    text-align: center;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+
+p2 {
     text-align: center;
     font-weight: bold;
     color: blanchedalmond;
